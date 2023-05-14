@@ -36,6 +36,8 @@ public class Answers {
         char third = i3.split(" ")[2].charAt(0);
         System.out.println(first+"."+second+"."+third+".");
         //Versiyon 2 çalışmaları
+        //Version 3
+
 
 
 
